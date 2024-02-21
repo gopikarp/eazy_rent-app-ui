@@ -1,6 +1,9 @@
 # easy
 
+
 A new Flutter project.
+<img src= "https://github.com/gopikarp/eazy_rent-app-ui/assets/100861026/01d9c9f1-c8d4-4cb3-b76a-f7de9eec9e7d" height="500"> 
+APK link https://drive.google.com/file/d/1n7n3Dq5UQYTjtd9bVHdWhoDcwDVG3r91/view?usp=drive_link
 
 ## Getting Started
 
